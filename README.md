@@ -1,2 +1,2 @@
 # start-new-lab
-study new tasks ion programming  
+study new programming tasks 
